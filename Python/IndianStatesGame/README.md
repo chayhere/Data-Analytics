@@ -10,4 +10,4 @@ An interactive Python game where users guess Indian states on a map. Correct gue
 - Visualization: plotting data points on a map using Turtle graphics 
 
 ## Demo
-![Code Demo](gifs/IndianStatesGame.gif)
+![Code Demo](./gifs/IndianStatesGame.gif)
