@@ -1,10 +1,10 @@
 # Fitness Tracker
 
-### Project Summary
+## Project Summary
 - This project automatically records daily workouts, calculates total calories burned, time spent, and stores all entries in Google Sheets.
 - It demonstrates a complete end-to-end analytics process, using Google Sheets, Python, Pandas, Google Sheets API, and cloud tools to capture, organize, aggregate, and summarize workout data into daily actionable insights.
 
-### Data Workflow : collection → clean → analyze → aggregate → summarize
+## Data Workflow : collection → clean → analyze → aggregate → summarize
 
 ## What It Does & Tools Used
 - Automates Data Logging: Captures user input, retrieves workout details via Nutritionix API, and logs results in Google Sheets automatically using Google Sheets API (via Google Cloud).
