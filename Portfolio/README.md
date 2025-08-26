@@ -1,4 +1,4 @@
-# Fitness Tracker
+# Workout Logger
 
 ## Project Summary
 - This project automatically records daily workouts, calculates total calories burned, time spent, and stores all entries in Google Sheets.
