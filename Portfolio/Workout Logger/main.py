@@ -1,4 +1,4 @@
-# 1.Imports and Initial Setup:
+# 1.Imports and Initial Setup
 # This section imports all the necessary libraries for the project.
 # - requests: Used to make API calls to external services.
 # - pandas: The primary library for data manipulation and analysis.
@@ -14,7 +14,7 @@ import datetime
 today_date = datetime.datetime.now().strftime("%x")
 now_time = datetime.datetime.now().strftime("%X")
 
-# 2.Google Sheets Connection:
+# 2.Google Sheets Connection
 # Establishes a secure connection to Google Sheets using a service account.
 # The `credentials.json` file contains the private key used for authentication.
 scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
@@ -23,7 +23,7 @@ client = gspread.authorize(creds)
 
 # Opens the specific spreadsheet and worksheet where data will be stored.
 # The sheet is identified by its unique key, and the worksheet by its name.
-sheet_id = "1bAXryjQRtfeHWynB9fbW3DVL9BbyKLM_7O4_ZmqGpeQ"
+sheet_id = "1gI9MWSvG0QBWf1-SmuhvXSOhXWp-R7up6oniRa90xvw"
 spreadsheet = client.open_by_key(sheet_id)
 worksheet = spreadsheet.worksheet("workouts")
 
@@ -42,7 +42,7 @@ exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 # 4.Sending a Natural Language Request to the API
 # This section sends a text-based request to the Nutritionix API using the `requests` library.
 # The API uses Natural Language Processing (NLP) to interpret the text and return structured data.
-exercise_text = input("Tell me which exercises you did: ")
+exercise_text = input("Enter your workouts: ")
 headers = {
     "x-app-id": APP_ID,
     "x-app-key": API_KEY,
@@ -61,7 +61,7 @@ result = response.json()
 
 # 5.Logging Data to Google Sheets
 # This loop processes the structured data returned by the API.
-# For each exercise identified, it appends a new row to the Google Sheet.
+# For each exercise identified, it appends a new row to the Google Sheet,
 # The workout summaries are stored here to be printed in the final output.
 workout_summaries = []
 for exercise in result["exercises"]:
@@ -70,16 +70,12 @@ for exercise in result["exercises"]:
     duration = exercise["duration_min"]
     calories = exercise["nf_calories"]
 
-    # Saves a summary of the current workout to a list.
-    workout_summaries.append(f"{name.title()}: {duration} min, {calories} cal 🔥")
-
     # The `append_row` method adds the data to the Google Sheet.
-    row_data = [today_date, now_time, exercise["name"].title(), exercise["duration_min"], exercise["nf_calories"]]
+    row_data = [today_date, now_time, name, f"{duration:.2f}", f"{calories:.2f}"]
     worksheet.append_row(row_data)
 
 # 6.Data Analysis with Pandas
-# This section demonstrates a core data analysis skill by reading the data back
-# from the sheet and using pandas to find meaningful insights.
+# This section reads the data back from the sheet and using pandas to find meaningful insights.
 
 # Reads all data from the Google Sheet and loads it into a Pandas DataFrame.
 all_records = worksheet.get_all_records()
@@ -110,7 +106,7 @@ merged_workout_summaries = [
 total_calories_today = today_grouped['Calories'].sum()
 total_duration_today = today_grouped['Duration'].sum()
 
-# Part 7: Consolidated Final Output
+# 7.Consolidated Final Output
 # This final section provides a clear, single-block output for the user.
 print("\nToday's Workout Log:")
 print("\n".join(merged_workout_summaries))
