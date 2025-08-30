@@ -3,7 +3,7 @@
 Python, Sheets, SQL, and Visualization. Long ago, the 4 elements shaped Data with clarity.
 Then, everything changed when data got chaotic. Only the **Data Avatar**, master of all 4 elements, could bring balance and insight.
 <br>&nbsp;<br>
-To become the next Data Avatar, though having great motivation and curiosity, I still have much to learn like SQL, Sheets, Python... before tackling real data.
+To become the next Data Avatar, though having great motivation and curiosity, I still have much to learn like SQL, Sheets, Python... before tackling real world data analysis.
 <br>
 In this repository, I showcase projects I’ve built while exploring Data Analytics, capturing my learnings from the basics to mastering the four elements.<br>
 
