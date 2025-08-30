@@ -19,8 +19,6 @@ My goal wasn’t just to retell history, but to practice **end-to-end data analy
 <img src="../../gifs/semmelweise.png" alt="Semmelweise" width="300"/>
 Dr. Ignaz Semmelweis – The “Father of Handwashing”
 Dr. Ignaz Semmelweis was a Hungarian physician who, in the 1840s, discovered that simple handwashing could drastically reduce maternal deaths from childbed fever. Despite his data-backed results, his colleagues rejected his idea, and he was ridiculed and even committed to a mental asylum.
-
 <img src="../../gifs/meme.jpg" alt="Meme" width="250"/>
-
 Ironically, what was once dismissed as madness is now celebrated as one of the most important breakthroughs in medical history. Today, Semmelweis is remembered as the father of infection control.
 Also Check out the Google Doodle about him here: [Recognizing Ignaz Semmelweis and Handwashing](https://doodles.google/doodle/recognizing-ignaz-semmelweis-and-handwashing/)
