@@ -1,4 +1,4 @@
-# Workout Logger
+# 💪🏼Workout Logger
 
 ## Project Summary
 - I built this project to learn and gain practical experience with a complete end-to-end data analytics pipeline. The project records daily workouts, calculates total calories burned and time spent, and stores all entries in Google Sheets automatically.
