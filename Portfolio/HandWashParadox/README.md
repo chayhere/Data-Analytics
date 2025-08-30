@@ -16,7 +16,6 @@ My goal wasn’t just to retell history, but to practice **end-to-end data analy
 - That even a **historical dataset** can be used to show modern skills like `pandas`, `matplotlib`, and `scipy`.  
 
 ## More Intresting stuff..
-![Semmelweis](../../gifs/semmelweise.png)
 <img src="../../gifs/semmelweise.png" alt="Semmelweise" width="300"/>
 Dr. Ignaz Semmelweis – The “Father of Handwashing”
 Dr. Ignaz Semmelweis was a Hungarian physician who, in the 1840s, discovered that simple handwashing could drastically reduce maternal deaths from childbed fever. Despite his data-backed results, his colleagues rejected his idea, and he was ridiculed and even committed to a mental asylum.
