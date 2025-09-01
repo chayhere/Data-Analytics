@@ -15,7 +15,7 @@ My goal wasn’t just to retell history, but to practice **end-to-end data analy
 - The value of framing results in a **story** — it makes the analysis more memorable than just numbers.  
 - That even a **historical dataset** can be used to show modern skills like `pandas`, `matplotlib`, and `scipy`.
 
-## ⚙️Tools used
+## ⚙️ Tools used
 - Python: pandas, matplotlib, scipy, sqlite3  
 - Google Colab (development & visualization)  
 - GitHub (version control & sharing)  
