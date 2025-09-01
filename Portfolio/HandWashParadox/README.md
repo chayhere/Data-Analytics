@@ -16,11 +16,11 @@ My goal wasn’t just to retell history, but to practice **end-to-end data analy
 - That even a **historical dataset** can be used to show modern skills like `pandas`, `matplotlib`, and `scipy`.
 
 ## ⚙️ Tools used
-- **Python** pandas, matplotlib, scipy, sqlite3  
-- **Google Colab** (development & visualization)  
-- **GitHub** (version control & sharing)  
-- **Google Drive** (data storage & access)  
-- **Markdown** (project documentation)  
+- **Python** - pandas, matplotlib, scipy, sqlite3  
+- **Google Colab** - (development & visualization)  
+- **GitHub** - (version control & sharing)  
+- **Google Drive** - (data storage & access)  
+- **Markdown** - (project documentation)  
 
 ## More Intresting stuff..
 <img src="../../gifs/semmelweise.png" alt="Semmelweise" width="200"/>
