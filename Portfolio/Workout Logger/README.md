@@ -18,10 +18,10 @@
 - Learned how an end-to-end data analytics pipeline works by handling raw inputs, cleaning data, aggregating results, and generating clear daily insights.
 
 ## ⚙️ Tools used 
-- **Python:** requests, pandas, gspread, oauth2client, datetime  
-- **APIs:** Nutritionix API (workout data), Google Sheets API (data storage)  
-- **Google Sheets:** cloud-based data storage & analysis  
-- **Google Colab / Local IDE:** pycharm-development & testing  
+- **Python** - requests, pandas, gspread, oauth2client, datetime  
+- **APIs** - Nutritionix API (workout data), Google Sheets API (data storage)  
+- **Google Sheets** - cloud-based data storage & analysis  
+- **Google Colab / Local IDE** - pycharm-development & testing  
 
 ## Demo
 ![Code Demo](../../gifs/WorkoutLogger.gif)
