@@ -3,8 +3,6 @@
 ## Overview / What I Did
 A Python project that logs daily workouts (fetching details via API), stores all data automatically in Google Sheets, calculates calories burned and time spent, tracks exercises in real time, and summarizes daily activity.
 
-## Data Workflow : collection → clean → analyze → aggregate → summarize
-
 ## How & Impact
 - Took user-inputted workouts and sent them to the Nutritionix API to retrieve structured exercise data.
 - Extracted relevant details (duration, calories, exercise name) from the API response.
