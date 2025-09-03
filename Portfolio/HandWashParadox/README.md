@@ -1,37 +1,40 @@
 # 🧼 The Handwashing Paradox  
 
 ## Overview / What I Did
-- Revisited the historical case of Dr. Ignaz Semmelweis, who discovered that handwashing drastically reduced maternal deaths in the 1840s.<br>
+- Revisited the historical case of Dr. Ignaz Semmelweis, who discovered that handwashing, drastically reduced maternal deaths in the 1840s.
+  
 - Used modern data analysis tools to validate his discovery, transforming raw hospital records into actionable insights through cleaning, visualization, SQL queries, and statistical testing.
 
 
+##  How & Impact
+- Data Wrangling & Cleaning: Loaded annual and monthly hospital records, calculated mortality rates, handled missing values, and structured the data for analysis. This ensured accurate and reliable insights.
+
+- Exploratory Data Analysis (EDA): Compared mortality trends between the two clinics, visualized annual and monthly fluctuations, and marked when handwashing was introduced to show the turning point.
+
+- SQL Integration: Wrote queries on the hospital records to calculate total births, deaths, and mortality rates before and after handwashing, showing the change in mortality clearly.
+
+- Statistical Validation: Applied a two-sample t-test to check whether the drop in mortality rates after handwashing was statistically significant (p ≈ 7e-07).
+  
+- Visualization & Storytelling: Created line plots, annotated turning points, and bar charts comparing before/after metrics to clearly show the results.
+  
+- Impact: Showed that maternal mortality dropped from ~10% to ~2% after handwashing, saving an estimated 523 lives, showing the real-world effect of data-driven insights.
 
 
+## Tools / Skills Used
+- **Python:** pandas, matplotlib, scipy, sqlite3
+- **Data Handling:** cleaning, aggregation, calculation of mortality rates
+- **Statistical Analysis:** two-sample t-test, hypothesis testing
+- **Data Visualization:** line plots, bar charts, annotated charts
+- **SQL:** querying datasets inside Python
+- **Environment & Cloud:** Google Colab, Google Drive, GitHub
+- **Documentation:** Markdown
 
-## 🔎 What I Worked On  
-- **Data wrangling & cleaning:** loading annual/monthly hospital records, calculating mortality rates.  
-- **Exploratory data analysis (EDA):** comparing clinics, visualizing trends, and marking interventions.  
-- **SQL integration:** writing queries inside Python to calculate totals and compare before/after periods.  
-- **Statistical testing:** running a two-sample T-test to check if mortality reduction was significant.  
-- **Visualization & storytelling:** creating clear charts (line plots, annotated turning points, bar charts) and tying them together in a notebook narrative.  
 
-## 📚 What I Learned  
-- How to structure a data project from start to finish (not just isolated code snippets).  
-- How EDA, SQL, and hypothesis testing can complement each other.  
-- The value of framing results in a **story** — it makes the analysis more memorable than just numbers.  
-- That even a **historical dataset** can be used to show modern skills like `pandas`, `matplotlib`, and `scipy`.
-
-## ⚙️ Tools used
-- **Python** - pandas, matplotlib, scipy, sqlite3  
-- **Google Colab** - (development & visualization)  
-- **GitHub** - (version control & sharing)  
-- **Google Drive** - (data storage & access)  
-- **Markdown** - (project documentation)  
-
-## More Intresting stuff..
+## Fun / Extra
 <img src="../../gifs/semmelweise.png" alt="Semmelweise" width="200"/>
-as we saw this guy ☝🏼 Dr. Ignaz Semmelweis discovered that simple handwashing could drastically reduce maternal deaths from childbed fever in 1840's where no concept of germs & stuff... Despite his revolutionary discovery, his colleagues rejected his idea, and he was ridiculed and even committed to a mental asylum.
+(he is the guy ☝🏼, Dr.Ignaz Semmelweis)
+- Semmelweis’ idea that simple handwashing could save lives was ridiculed by his peers, and he faced extreme backlash—even being committed to a mental asylum.
+- Today, that same idea is celebrated as a life-saving breakthrough and he’s remembered as the father of infection control.
 <img src="../../gifs/meme.jpg" alt="Meme" width="350"/>
-Ironically, what was once dismissed as madness is now celebrated as one of the most important breakthroughs in medical history. Today, Semmelweis is remembered as the father of infection control.<br> 
 <br>
-Also Check out the beautiful Google Doodle about him here: [Recognizing Ignaz Semmelweis and Handwashing](https://doodles.google/doodle/recognizing-ignaz-semmelweis-and-handwashing/)
+Check out the beautiful Google Doodle about him here: [Recognizing Ignaz Semmelweis and Handwashing](https://doodles.google/doodle/recognizing-ignaz-semmelweis-and-handwashing/)
