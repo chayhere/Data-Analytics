@@ -1,6 +1,12 @@
 # 🧼 The Handwashing Paradox  
-This is a self-driven project where I revisited a famous historical medical case — Dr. Ignaz Semmelweis’ discovery that handwashing drastically reduced maternal deaths in the 1840s.  
-My goal wasn’t just to retell history, but to practice **end-to-end data analysis**: from wrangling raw data, to SQL queries and statistical testing, all the way to visual storytelling.  
+
+## Overview / What I Did
+Revisited the historical case of Dr. Ignaz Semmelweis, who discovered that handwashing drastically reduced maternal deaths in the 1840s.<br>
+Used modern data analysis tools to validate his discovery, transforming raw hospital records into actionable insights through cleaning, visualization, SQL queries, and statistical testing.
+
+
+
+
 
 ## 🔎 What I Worked On  
 - **Data wrangling & cleaning:** loading annual/monthly hospital records, calculating mortality rates.  
