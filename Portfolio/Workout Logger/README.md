@@ -6,8 +6,8 @@ A Python project that logs daily workouts (fetching details via API), stores all
 ## How & Impact
 - Took user-inputted workouts and sent them to the Nutritionix API to retrieve structured exercise data.
 - Extracted relevant details (duration, calories, exercise name) from the API response.
-- Appended this data structurally into Google Sheets for storage and organization.
-- Loaded the sheet into pandas DataFrame, cleaned and aggregated the data for analysis.
+- Automatically appended this data structurally into **Google Sheets** for storage and organization.
+- Loaded the sheet into **pandas** DataFrame, cleaned and aggregated the data for analysis.
 - Produced daily insights summarizing total calories burned and exercise duration, providing actionable fitness tracking.
 
 ## Tools / Skills Used
