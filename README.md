@@ -5,7 +5,7 @@ Then, everything changed when data got chaotic. Only the **Data Avatar**, master
 <br>&nbsp;<br>
 To become the next Data Avatar, though having great motivation and curiosity, I still have much to learn like SQL, Sheets, Python... before tackling real world data analysis.
 <br>
-In this repository, I document projects I’ve built exploring Data Analytics, capturing my learnings from the basics to mastering the four elements.<br>
+In this repository, I document projects I’ve built learning Data Analytics, capturing my learnings from the basics to mastering the four elements.<br>
 
 ## 🏆 Portfolio Projects
 - [The HandWash Paradox](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Portfolio/HandWashParadox) Used historical medical data, explored statistics, visualized patterns, and validated Dr. Semmelweis’ work through data analysis and documentation.
