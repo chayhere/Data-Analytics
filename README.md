@@ -18,5 +18,5 @@ In this repository, I document projects I’ve built learning Data Analytics, ca
 
 ## 🏅 HackerRank Badges
 ![Python](/gifs/python.png)
-<img src="/gifs/python.png" alt="Python" width="200"/>
+<img src="/gifs/python.png" alt="Python" width="100"/>
 ![SQL](/gifs/sql.png)
