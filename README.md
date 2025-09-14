@@ -16,4 +16,4 @@ In this repository, I document projects I’ve built learning Data Analytics, ca
 - [Slang Decoder](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Python/SlangDecode) Created a tool that reads unknown acronyms from CSV using Pandas and returns their full forms, practicing basic data manipulation and lookup.
 
 
-## 🏅 Badges & Certificates
+## 🏅 HackerRank Badges
