@@ -23,7 +23,7 @@ In this repository, I document projects I’ve built learning Data Analytics, ca
 </p>
 
 
-## 📜Certificates
+## 📜 Certificates
 - [Introduction to Career Skills in Data Analytics](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-1.pdf)
 - [Learning Data Analytics: 1 Foundations](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-2.pdf)
 - [Learning Data Analytics Part 2: Extending and Applying Core Knowledge](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-3.pdf)
