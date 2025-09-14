@@ -22,3 +22,5 @@ In this repository, I document projects I’ve built learning Data Analytics, ca
 <img src="/gifs/sql.png" alt="SQL" width="100"/>
 </p>
 
+
+## Certificates
