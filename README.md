@@ -14,3 +14,6 @@ In this repository, I document projects I’ve built learning Data Analytics, ca
 ## 🐍 Python Projects
 - [IndianStatesGame](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Python/IndianStatesGame) Built a geography quiz using Pandas and CSV data, letting users identify Indian states on a blank map while practicing data handling and analysis.
 - [Slang Decoder](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Python/SlangDecode) Created a tool that reads unknown acronyms from CSV using Pandas and returns their full forms, practicing basic data manipulation and lookup.
+
+
+## 🏅 Badges & Certificates
