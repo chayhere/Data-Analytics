@@ -18,3 +18,4 @@ In this repository, I document projects I’ve built learning Data Analytics, ca
 
 ## 🏅 HackerRank Badges
 ![Python](/gifs/python.png)
+![SQL](/gifs/sql.png)
