@@ -1,5 +1,6 @@
 # ✨ Data Analytics Portfolio
 ![Title-card](gifs/Avatar.jpg)
+<br>
 🌊Python, 🪨Sheets, 🔥SQL, and 💨Visualization. Long ago, the 4 elements shaped Data with clarity.
 Then, everything changed when data got chaotic. Only the **Data Avatar**, master of all 4 elements, could bring balance and insight.
 <br>&nbsp;<br>
