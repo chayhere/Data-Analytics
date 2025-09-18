@@ -31,6 +31,7 @@ Career Essentials in Data Analysis by Microsoft and LinkedIn
 
 ## 📜 Certificates
 Career Essentials in Data Analysis by Microsoft and LinkedIn
+<br>
 [<img src="/gifs/linkedin-DA-0.png" alt="linkedin-DA-1.pdf" width="200"/>](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-1.pdf)
 
 
