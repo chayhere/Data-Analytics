@@ -33,7 +33,7 @@ Career Essentials in Data Analysis by Microsoft and LinkedIn
 - Career Essentials in Data Analysis by Microsoft and LinkedIn
 
 [<img src="/gifs/linkedin-DA-0.png" alt="linkedin-DA-1.pdf" width="200"/>](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-0.pdf)
-
+[<img src="/gifs/linkedin-DA-1.png" alt="linkedin-DA-1.pdf" width="200"/>](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-1.pdf)
 
 
 
