@@ -19,7 +19,7 @@
 
 
 ## Impact  
-- Showed that maternal mortality dropped from ~10% to ~2% after handwashing, saving an estimated 523 lives, showing the real-world effect of data-driven insights.
+- Showed that **maternal mortality dropped from ~10% to ~2%** after handwashing, **saving an estimated 523 lives**, showing the real-world effect of data-driven insights.
 
 
 ## Tools / Skills Used
