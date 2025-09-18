@@ -29,8 +29,9 @@ Career Essentials in Data Analysis by Microsoft and LinkedIn
 - [Learning Data Analytics: 1 Foundations](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-2.pdf)
 - [Learning Data Analytics Part 2: Extending and Applying Core Knowledge](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-3.pdf)
 
-
-
+## 📜 Certificates
+Career Essentials in Data Analysis by Microsoft and LinkedIn
+- [<img src="/gifs/linkedin-DA-1.pdf" alt="linkedin-DA-1.pdf" width="100"/>](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-1.pdf)
 
 
 
