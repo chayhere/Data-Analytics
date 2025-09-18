@@ -5,6 +5,7 @@ Then, everything changed when data got chaotic. Only the **Data Avatar**, master
 <br>&nbsp;<br>
 To become the next Data Avatar, though having great motivation and curiosity, I still have much to learn like SQL, Sheets, Python... before tackling real world data analysis.
 <br>
+<br>
 In this repository, I document my Data Analytics journey, capturing my progress from the basics to mastering the elements.
 <br>
 
