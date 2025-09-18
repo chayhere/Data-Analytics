@@ -39,20 +39,3 @@
 <br>
 Check out the beautiful Google Doodle about him here: [Recognizing Ignaz Semmelweis and Handwashing](https://doodles.google/doodle/recognizing-ignaz-semmelweis-and-handwashing/)
 
-
-## Fun / Extra
-
-
-<img src="../../gifs/semmelweise.png" alt="Semmelweise" width="200" align="left"/>
-
-👈🏼(he is the guy, Dr.Ignaz Semmelweis)  
-
-- Semmelweis’ idea that simple handwashing could save lives was ridiculed by his peers, and he faced extreme backlash—even being committed to a mental asylum.  
-- Today, that same idea is celebrated as a life-saving breakthrough and he’s remembered as the father of infection control.  
-
-<br clear="left"/>
-
-<p align="left">
-  <img src="../../gifs/meme.jpg" alt="Meme" width="350"/>
-</p>
-
