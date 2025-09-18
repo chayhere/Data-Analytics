@@ -24,17 +24,11 @@ In this repository, I document projects I’ve built learning Data Analytics, ca
 
 
 ## 📜 Certificates
-Career Essentials in Data Analysis by Microsoft and LinkedIn
-- [Introduction to Career Skills in Data Analytics](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-1.pdf)
-- [Learning Data Analytics: 1 Foundations](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-2.pdf)
-- [Learning Data Analytics Part 2: Extending and Applying Core Knowledge](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-3.pdf)
-
-## 📜 Certificates
 - Career Essentials in Data Analysis by Microsoft and LinkedIn
 
-[<img src="/gifs/linkedin-DA-0.png" alt="linkedin-DA-1.pdf" width="200"/>](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-0.pdf)
-[<img src="/gifs/linkedin-DA-1.png" alt="linkedin-DA-1.pdf" width="200"/>](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-1.pdf)
-[<img src="/gifs/linkedin-DA-2.png" alt="linkedin-DA-1.pdf" width="200"/>](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-2.pdf)
+[<img src="/gifs/linkedin-DA-0.png" alt="linkedin-DA-1.pdf" width="250"/>](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-0.pdf)
+[<img src="/gifs/linkedin-DA-1.png" alt="linkedin-DA-1.pdf" width="250"/>](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-1.pdf)
+[<img src="/gifs/linkedin-DA-2.png" alt="linkedin-DA-1.pdf" width="250"/>](https://github.com/chayhere/Data-Analytics/blob/main/gifs/linkedin-DA-2.pdf)
 
 
 
