@@ -23,6 +23,7 @@ In this repository, I document my Data Analytics journey, capturing my progress 
 
 ## 🏅 HackerRank Badges
 <p align="left">
+[<img src="/gifs/python.png" alt="Python" width="100"/>](https://www.hackerrank.com/profile/chayhere)   
 <img src="/gifs/python.png" alt="Python" width="100"/>
 <img src="/gifs/sql.png" alt="SQL" width="100"/>
 </p>
