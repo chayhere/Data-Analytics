@@ -13,12 +13,12 @@ In this repository, I document my Data Analytics journey, capturing my progress 
 
 
 ## 🏆 Portfolio Projects
-- [The HandWash Paradox](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Portfolio/HandWashParadox) Used historical medical data, explored statistics, visualized patterns, and validated Dr. Semmelweis’ work through data analysis and documentation.
-- [Workout Logger](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Portfolio/Workout%20Logger) Collected personal workout data, used natural language API, Automated data logging into Sheets, processed data using Pandas and derived real-world usable insights.
+- [The HandWash Paradox](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Portfolio/HandWashParadox): Used historical medical data, explored statistics, visualized patterns, and validated Dr. Semmelweis’ work through data analysis and documentation.
+- [Workout Logger](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Portfolio/Workout%20Logger): Collected personal workout data, used natural language API, Automated data logging into Sheets, processed data using Pandas and derived real-world usable insights.
 
 ## 🐍 Python Projects
-- [IndianStatesGame](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Python/IndianStatesGame) Built a geography quiz using Pandas and CSV data, letting users identify Indian states on a blank map while practicing data handling and analysis.
-- [Slang Decoder](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Python/SlangDecode) Created a tool that reads unknown acronyms from CSV using Pandas and returns their full forms, practicing basic data manipulation and lookup.
+- [IndianStatesGame](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Python/IndianStatesGame): Built a geography quiz using Pandas and CSV data, letting users identify Indian states on a blank map while practicing data handling and analysis.
+- [Slang Decoder](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Python/SlangDecode): Created a tool that reads unknown acronyms from CSV using Pandas and returns their full forms, practicing basic data manipulation and lookup.
 
 
 ## 🏅 HackerRank Badges
