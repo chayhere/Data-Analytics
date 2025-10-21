@@ -39,6 +39,7 @@
 - Today, that same idea is celebrated as a life-saving breakthrough and he’s remembered as the father of infection control.
 <img src="../../gifs/meme.jpg" alt="Meme" width="350"/>
 <br>
+
 Check out the beautiful Google Doodle about him here: [Recognizing Ignaz Semmelweis and Handwashing](https://doodles.google/doodle/recognizing-ignaz-semmelweis-and-handwashing/)
 
 
