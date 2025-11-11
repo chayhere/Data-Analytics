@@ -27,15 +27,14 @@ In this repository, I document my Data Analytics journey, capturing my progress 
 
 
 ## 🏅 HackerRank Badges
-<p align="left">
-<img src="/gifs/python.png" alt="Python" width="100"/>
-<img src="/gifs/sql.png" alt="SQL" width="100"/>
-</p>
 
 
 <p align="left">
     <a href="https://www.hackerrank.com/chayhere">
         <img src="https://github.com/chayhere/Data-Analytics/blob/main/gifs/sql.png" >
+    </a>
+     <a href="https://www.hackerrank.com/chayhere">
+        <img src="https://github.com/chayhere/Data-Analytics/blob/main/gifs/python.png" >
     </a>
 </p>
 
