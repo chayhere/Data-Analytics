@@ -22,7 +22,7 @@ In this repository, I document my Data Analytics journey, capturing my progress 
 
 ## 📈Visualization
 - [Google Search vs Reality](https://github.com/chayhere/Data-Analytics/tree/main/Visualization/GoogleSearchvsReality):
-- [LanguageTrendAnalysis](https://github.com/chayhere/Data-Analytics/tree/main/Visualization/LanguageTrendAnalysis):
+- [Language Trend Analysis](https://github.com/chayhere/Data-Analytics/tree/main/Visualization/LanguageTrendAnalysis):
 
 
 
