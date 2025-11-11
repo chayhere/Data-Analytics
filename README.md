@@ -30,12 +30,13 @@ In this repository, I document my Data Analytics journey, capturing my progress 
 
 
 <p align="left">
-    <a href="https://www.hackerrank.com/chayhere">
-        <img src="https://github.com/chayhere/Data-Analytics/blob/main/gifs/sql.png" >
-    </a>
      <a href="https://www.hackerrank.com/chayhere">
         <img src="https://github.com/chayhere/Data-Analytics/blob/main/gifs/python.png" >
     </a>
+    <a href="https://www.hackerrank.com/chayhere">
+        <img src="https://github.com/chayhere/Data-Analytics/blob/main/gifs/sql.png" >
+    </a>
+    
 </p>
 
 
