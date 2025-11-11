@@ -30,8 +30,24 @@ In this repository, I document my Data Analytics journey, capturing my progress 
 <p align="left">
 <img src="/gifs/python.png" alt="Python" width="100"/>
 <img src="/gifs/sql.png" alt="SQL" width="100"/>
-- [<img src="/gifs/sql.png" alt="SQL" width="100"/>](https://www.hackerrank.com/profile/chayhere)
 </p>
+
+
+<p align="left">
+    <a href="https://www.hackerrank.com/chayhere">
+        <img src="https://github.com/chayhere/Data-Analytics/blob/main/gifs/sql.png" >
+    </a>
+</p>
+
+
+
+
+
+
+
+
+
+
 
 
 ## 📜 Certifications
