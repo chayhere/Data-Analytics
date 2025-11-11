@@ -8,3 +8,6 @@ The project uses pandas for cleaning and reshaping data and Matplotlib for visua
 - Python (pandas, matplotlib): data cleaning, reshaping, and visualization
 - Data Analysis: time-series handling, trend identification
 - Insight Generation: comparing growth and decline of major programming languages
+
+## Final Visualization
+![Demo](../../gifs/LTA.png)
