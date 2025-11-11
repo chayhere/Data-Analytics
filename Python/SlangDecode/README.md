@@ -1,4 +1,4 @@
-# Slang Decoder (Intermediate)
+# Slang Decoder
 
 ## Overview
 A Python program where users can type a slang or acronym and instantly get its meaning. It uses a CSV file as the data source and transforms it into a dictionary for fast lookup.
