@@ -10,4 +10,4 @@ The project uses pandas for cleaning and reshaping data and Matplotlib for visua
 - Insight Generation: comparing growth and decline of major programming languages
 
 ## Final Visualization
-![Demo](../../gifs/LTA.png)
+![Demo](../../gifs/LanguageTrendAnalysis.png)
