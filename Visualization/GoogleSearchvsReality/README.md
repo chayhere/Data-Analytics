@@ -16,6 +16,7 @@
 - Bitcoin: 0.64 → searches and price rise and fall in a similar way.
 
 - Unemployment: 0.71 → more searches for “unemployment benefits” when real unemployment rises.
+
 **Visualization:** Used clear line graphs with dual axes to show how public attention often predicts real-world changes.
 
 ## Impact
