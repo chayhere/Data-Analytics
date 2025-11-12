@@ -5,12 +5,11 @@
 - Tried to see if what people search for online can reflect or even hint at real trends.
 
 ## How
-**Data Handling:** Cleaned and organized monthly data from Google Trends, stock prices, and government reports.
+- **Data Handling:** Cleaned and organized monthly data from Google Trends, stock prices, and government reports.
+
+- **Trend Comparison:** Plotted search interest against real data to see how closely they move together.
 <br>
-<br>
-**Trend Comparison:** Plotted search interest against real data to see how closely they move together.
-<br>
-**Relationship Check:** Measured how strong the connection is between the two:
+- **Relationship Check:** Measured how strong the connection is between the two:
 <br>
 – Tesla: 0.74 → when Tesla searches go up, price mostly goes up too.
 – Bitcoin: 0.64 → searches and price rise and fall in a similar way.
