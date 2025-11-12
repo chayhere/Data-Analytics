@@ -21,7 +21,7 @@ In this repository, I document my Data Analytics journey, capturing my progress 
 - [Slang Decoder](https://github.com/chaitanyakrishnakumar/Data-Analytics/tree/main/Python/SlangDecode): Created a tool that reads unknown acronyms from CSV using Pandas and returns their full forms, practicing basic data manipulation and lookup.
 
 ## 📈Visualization
-- [Google Search vs Reality](https://github.com/chayhere/Data-Analytics/tree/main/Visualization/GoogleSearchvsReality):
+- [Google Search vs Reality](https://github.com/chayhere/Data-Analytics/tree/main/Visualization/GoogleSearchvsReality): Analyzed how Google search interest reflects real-world trends like Tesla stock prices, Bitcoin value, and unemployment rates.
 - [Language Trend Analysis](https://github.com/chayhere/Data-Analytics/tree/main/Visualization/LanguageTrendAnalysis): Visualized how programming language popularity evolved over time using Stack Overflow data.
 
 
