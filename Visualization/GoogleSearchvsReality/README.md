@@ -5,17 +5,19 @@
 - Tried to see if what people search for online can reflect or even hint at real trends.
 
 ## How
-- **Data Handling:** Cleaned and organized monthly data from Google Trends, stock prices, and government reports.
-- **Trend Comparison:** Plotted search interest against real data to see how closely they move together.
-- **Relationship Check:** Measured how strong the connection is between the two:
+**Data Handling:** Cleaned and organized monthly data from Google Trends, stock prices, and government reports.
 <br>
-1.Tesla: 0.74 → when Tesla searches go up, price mostly goes up too.
+**Trend Comparison:** Plotted search interest against real data to see how closely they move together.
 <br>
-2.Bitcoin: 0.64 → searches and price rise and fall in a similar way.
+**Relationship Check:** Measured how strong the connection is between the two:
+
+- Tesla: 0.74 → when Tesla searches go up, price mostly goes up too.
+
+- Bitcoin: 0.64 → searches and price rise and fall in a similar way.
+
+- Unemployment: 0.71 → more searches for “unemployment benefits” when real unemployment rises.
 <br>
-3.Unemployment: 0.71 → more searches for “unemployment benefits” when real unemployment rises.
-<br>
-- **Visualization:** Used clear line graphs with dual axes to show how public attention often predicts real-world changes.
+**Visualization:** Used clear line graphs with dual axes to show how public attention often predicts real-world changes.
 
 ## Impact
 - Proved that Google searches often mirror what’s happening or about to happen in reality.
