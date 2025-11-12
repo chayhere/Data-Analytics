@@ -7,6 +7,7 @@
 ## How
 **Data Handling:** Cleaned and organized monthly data from Google Trends, stock prices, and government reports.
 <br>
+<br>
 **Trend Comparison:** Plotted search interest against real data to see how closely they move together.
 <br>
 **Relationship Check:** Measured how strong the connection is between the two:
