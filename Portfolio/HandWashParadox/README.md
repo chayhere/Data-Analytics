@@ -1,6 +1,6 @@
 # 🧼 The Handwashing Paradox  
 
-**📘 Live Notebook Preview**
+## 📘 Live Notebook Preview
 
 - ▶️ **View Notebook (GitHub Render)**  
   [./HandWashParadox.ipynb](./HandWashParadox.ipynb)
