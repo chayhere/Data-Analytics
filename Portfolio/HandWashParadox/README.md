@@ -1,5 +1,18 @@
 # 🧼 The Handwashing Paradox  
 
+**📘 Live Notebook Preview**
+
+- ▶️ **View Notebook (GitHub Render)**  
+  [./HandWashParadox.ipynb](./HandWashParadox.ipynb)
+
+- 🚀 **Open in Google Colab**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chayhere/Data-Analytics/blob/main/Portfolio/HandWashParadox/HandWashParadox.ipynb)
+
+
+
+
+
+
 ## Overview / What I Did
 - Revisited the historical case of Dr. Ignaz Semmelweis, who discovered that handwashing, drastically reduced maternal deaths in the 1840s.
   
