@@ -2,7 +2,7 @@
 
 ## 📘 Live Notebook Preview
 
-- View Notebook Here👇🏼 (GitHub Render) 
+- View Notebook Here 👉🏼 
   [./HandWashParadox.ipynb](./HandWashParadox.ipynb)
 
 - **Open in Google Colab**  
