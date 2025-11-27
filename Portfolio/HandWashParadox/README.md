@@ -2,14 +2,10 @@
 
 ## 📘 Live Notebook Preview
 
-- View Notebook Here 👉🏼 
-  [./HandWashParadox.ipynb](./HandWashParadox.ipynb)
+- 👉🏼 [View Notebook Here](./HandWashParadox.ipynb)
 
-- Open in Google Colab Here 👉🏼   
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chayhere/Data-Analytics/blob/main/Portfolio/HandWashParadox/HandWashParadox.ipynb)
+- 👉🏼 [Open in Google Colab](https://colab.research.google.com/github/chayhere/Data-Analytics/blob/main/Portfolio/HandWashParadox/HandWashParadox.ipynb)
 
-[View Notebook (GitHub Render)](./HandWashParadox.ipynb)  
-[Open in Google Colab](https://colab.research.google.com/github/chayhere/Data-Analytics/blob/main/Portfolio/HandWashParadox/HandWashParadox.ipynb)
 
 
 
