@@ -2,10 +2,10 @@
 
 ## 📘 Live Notebook Preview
 
-- ▶️ **View Notebook (GitHub Render)**  
+- View Notebook Here👇🏼 (GitHub Render) 
   [./HandWashParadox.ipynb](./HandWashParadox.ipynb)
 
-- 🚀 **Open in Google Colab**  
+- **Open in Google Colab**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chayhere/Data-Analytics/blob/main/Portfolio/HandWashParadox/HandWashParadox.ipynb)
 
 [View Notebook (GitHub Render)](./HandWashParadox.ipynb)  
